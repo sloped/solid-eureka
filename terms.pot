@@ -1,1 +1,1661 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: DragonFly-App\n"
+"Language: en-us\n"
+
+#: resources/htdocs/js/dragonfly-templates/templates/add_device/confirm_cancel.html:1
+msgctxt "Message that appears when users click the cancel button during the add device process. "
+msgid "add_device.confirm_cancel"
+msgstr ""
+
+#: resources/htdocs/js/dragonfly-templates/templates/add_device/confirm_cancel.html:4 resources/htdocs/js/dragonfly-templates/templates/add_subscription/confirm_cancel.html:4 resources/htdocs/js/dragonfly-templates/templates/alarm/alarm_popup.html:29 resources/htdocs/js/dragonfly-templates/templates/alarm/alarm_popup.html:41 resources/htdocs/js/dragonfly-templates/templates/alarm/alarm_popup.html:53 resources/htdocs/js/dragonfly-templates/templates/alarm/cancel_dispatch_confirm.html:4 resources/htdocs/js/dragonfly-templates/templates/assets/view_asset.html:37 resources/htdocs/js/dragonfly-templates/templates/devices/device_edit.html:12 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_contact.html:15 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_contact.html:27 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_panel_user.html:19 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_panel_user.html:31 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_panel_user.html:43 resources/htdocs/js/dragonfly-templates/templates/setup_screens/modals/confirm_cancel.html:4 resources/htdocs/js/dragonfly-templates/templates/setup_screens/modals/optional_wifi.html:6 resources/htdocs/js/dragonfly-templates/templates/system_settings/change_password.html:11 resources/htdocs/js/dragonfly-templates/templates/ui/confirm_navigation.html:7
+msgctxt "Term used to indicate a Yes response"
+msgid "general.yes"
+msgstr ""
+
+#: resources/htdocs/js/dragonfly-templates/templates/add_device/confirm_cancel.html:7 resources/htdocs/js/dragonfly-templates/templates/add_subscription/confirm_cancel.html:7 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_contact.html:30 resources/htdocs/js/dragonfly-templates/templates/panel_properties/edit_panel_user.html:46 resources/htdocs/js/dragonfly-templates/templates/setup_screens/modals/confirm_cancel.html:7 resources/htdocs/js/dragonfly-templates/templates/setup_screens/modals/optional_wifi.html:9 resources/htdocs/js/dragonfly-templates/templates/setup_screens/place_hub.html:45 resources/htdocs/js/dragonfly-templates/templates/system_settings/change_password.html:14
+msgctxt "Term used to indicate a No Reponse"
+msgid "general.no"
+msgstr ""
+
+#: 
+msgid "device.name_device_headline"
+msgstr ""
+
+#: 
+msgid "device.name_device_subhead"
+msgstr ""
+
+#: 
+msgid "general.continue"
+msgstr ""
+
+#: 
+msgid "general.back"
+msgstr ""
+
+#: 
+msgid "device.cancel"
+msgstr ""
+
+#: 
+msgid "hub.add_device_headline"
+msgstr ""
+
+#: 
+msgid "hub.add_device_subhead"
+msgstr ""
+
+#: 
+msgid "hub.camera_type_indoor"
+msgstr ""
+
+#: 
+msgid "hub.camera_type_outdoor"
+msgstr ""
+
+#: 
+msgid "hub.batteries_headline"
+msgstr ""
+
+#: 
+msgid "hub.batteries_subhead"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_one"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_one_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_two"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_two_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_three"
+msgstr ""
+
+#: 
+msgid "hub.setup_indoor_three_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_one"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_one_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_two"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_two_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_three"
+msgstr ""
+
+#: 
+msgid "hub.setup_outdoor_three_desc"
+msgstr ""
+
+#: 
+msgid "hub.discoverable_headline"
+msgstr ""
+
+#: 
+msgid "hub.discoverable_subhead"
+msgstr ""
+
+#: 
+msgid "hub.no_discovery_headline"
+msgstr ""
+
+#: 
+msgid "hub.no_discovery_subhead"
+msgstr ""
+
+#: 
+msgid "general.close"
+msgstr ""
+
+#: 
+msgid "hub.place_headline"
+msgstr ""
+
+#: 
+msgid "hub.place_indoor_desc"
+msgstr ""
+
+#: 
+msgid "hub.place_outdoor_desc"
+msgstr ""
+
+#: 
+msgid "hub.setup_complete_headline"
+msgstr ""
+
+#: 
+msgid "device.add_another_device"
+msgstr ""
+
+#: 
+msgid "hub.setup_finish"
+msgstr ""
+
+#: 
+msgid "hub.whatyouneed_headline"
+msgstr ""
+
+#: resources/htdocs/js/dragonfly-templates/templates/add_device/what_you_need_device.html:5
+msgid "hub.whatyouneed_desc"
+msgstr ""
+
+#: 
+msgid "hub.whatyouneed_camera"
+msgstr ""
+
+#: 
+msgid "hub.whatyouneed_batteries"
+msgstr ""
+
+#: 
+msgid "hub.whatyouneed_paperclip"
+msgstr ""
+
+#: 
+msgid "hub.whatyouneed_screwdriver"
+msgstr ""
+
+#: 
+msgid "subscription_contact_headline"
+msgstr ""
+
+#: 
+msgid "subscription_contact_subhead"
+msgstr ""
+
+#: 
+msgid "general.save"
+msgstr ""
+
+#: 
+msgid "general.cancel"
+msgstr ""
+
+#: 
+msgid "subscription_alarm_headline"
+msgstr ""
+
+#: 
+msgid "subscription_alarm_subhead"
+msgstr ""
+
+#: 
+msgid "general.finish"
+msgstr ""
+
+#: 
+msgid "subscription_monitoring_headline"
+msgstr ""
+
+#: 
+msgid "subscription_monitoring_subhead"
+msgstr ""
+
+#: 
+msgid "subscription_confirm_cancel"
+msgstr ""
+
+#: 
+msgid "subscription_location_headline"
+msgstr ""
+
+#: 
+msgid "subscription_location_subhead"
+msgstr ""
+
+#: 
+msgid "subscription_address_correct"
+msgstr ""
+
+#: 
+msgid "subscription_address_update"
+msgstr ""
+
+#: 
+msgid "subscription_plan_headline"
+msgstr ""
+
+#: 
+msgid "subscription_plan_basic_headline"
+msgstr ""
+
+#: 
+msgid "subscription_plan_basic_desc"
+msgstr ""
+
+#: 
+msgid "subscription_plan_feature_one"
+msgstr ""
+
+#: 
+msgid "subscription_plan_feature_two"
+msgstr ""
+
+#: 
+msgid "subscription_plan_feature_three"
+msgstr ""
+
+#: 
+msgid "subscription_plan_premium_headline"
+msgstr ""
+
+#: 
+msgid "subscription_plan_premium_desc"
+msgstr ""
+
+#: 
+msgid "subscription_plan_feature_four"
+msgstr ""
+
+#: 
+msgid "subscription_plan_select"
+msgstr ""
+
+#: 
+msgid "subscription_plan_select_headline"
+msgstr ""
+
+#: 
+msgid "subscription_plan_select_subhead"
+msgstr ""
+
+#: 
+msgid "subscription_plan_none"
+msgstr ""
+
+#: 
+msgid "subscription_plan_none_desc"
+msgstr ""
+
+#: 
+msgid "subscription_plan_hub_none"
+msgstr ""
+
+#: 
+msgid "alarm.headline"
+msgstr ""
+
+#: 
+msgid "general.watch_video"
+msgstr ""
+
+#: 
+msgid "general.loading_video"
+msgstr ""
+
+#: 
+msgid "alarm.dispatch"
+msgstr ""
+
+#: 
+msgid "alarm.dismiss"
+msgstr ""
+
+#: 
+msgid "alarm.disarm"
+msgstr ""
+
+#: 
+msgid "alarm.dismiss_confirm"
+msgstr ""
+
+#: 
+msgid "alarm.dispatch_confirm"
+msgstr ""
+
+#: 
+msgid "alarm.disarm_confirm"
+msgstr ""
+
+#: 
+msgid "alarm.dispatch_cancel"
+msgstr ""
+
+#: 
+msgid "assets.none"
+msgstr ""
+
+#: 
+msgid "general.delete"
+msgstr ""
+
+#: 
+msgid "assets.delete"
+msgstr ""
+
+#: 
+msgid "demo.headline"
+msgstr ""
+
+#: 
+msgid "demo.subhead"
+msgstr ""
+
+#: 
+msgid "demo.intruder_alarm"
+msgstr ""
+
+#: 
+msgid "demo.false_alarm"
+msgstr ""
+
+#: 
+msgid "nav.dashboard"
+msgstr ""
+
+#: 
+msgid "nav.devices"
+msgstr ""
+
+#: 
+msgid "nav.event_log"
+msgstr ""
+
+#: 
+msgid "nav.gallery"
+msgstr ""
+
+#: 
+msgid "nav.menu"
+msgstr ""
+
+#: 
+msgid "demo.no_device"
+msgstr ""
+
+#: 
+msgid "demo.add_device"
+msgstr ""
+
+#: 
+msgid "device.delete_device"
+msgstr ""
+
+#: 
+msgid "device.delete_device_confirm"
+msgstr ""
+
+#: 
+msgid "device.no_device"
+msgstr ""
+
+#: 
+msgid "device.please_add_device"
+msgstr ""
+
+#: 
+msgid "device.add_device"
+msgstr ""
+
+#: 
+msgid "device.cameras"
+msgstr ""
+
+#: 
+msgid "device.get_picture"
+msgstr ""
+
+#: 
+msgid "device.edit_camera_details"
+msgstr ""
+
+#: 
+msgid "device.range_headline"
+msgstr ""
+
+#: 
+msgid "device.range_subhead"
+msgstr ""
+
+#: 
+msgid "device.range_test_skip"
+msgstr ""
+
+#: 
+msgid "device.range_test_run"
+msgstr ""
+
+#: 
+msgid "modal.cant_connect_headline"
+msgstr ""
+
+#: 
+msgid "modal.cant_connect_desc"
+msgstr ""
+
+#: 
+msgid "modal.cant_find_headline"
+msgstr ""
+
+#: 
+msgid "modal.cant_find_desc"
+msgstr ""
+
+#: 
+msgid "modal.try_again"
+msgstr ""
+
+#: 
+msgid "modal.cant_range_test"
+msgstr ""
+
+#: 
+msgid "modal.cant_walk_test"
+msgstr ""
+
+#: 
+msgid "modal.hub_added_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_added_desc"
+msgstr ""
+
+#: 
+msgid "modal.hub_invalid_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_invalid_desc"
+msgstr ""
+
+#: 
+msgid "modal.hub_incompatible_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_incompatible_desc"
+msgstr ""
+
+#: 
+msgid "modal.hub_lights_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_lights_desc"
+msgstr ""
+
+#: 
+msgid "modal.hub_lights_stepone"
+msgstr ""
+
+#: 
+msgid "modal.hub_lights_steptwo"
+msgstr ""
+
+#: 
+msgid "modal.hub_lights_stepthree"
+msgstr ""
+
+#: 
+msgid "modal.hub_signal_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_signal_subhead"
+msgstr ""
+
+#: 
+msgid "modal.hub_signal_desc"
+msgstr ""
+
+#: 
+msgid "modal.hub_serial_headline"
+msgstr ""
+
+#: 
+msgid "modal.hub_serial_desc"
+msgstr ""
+
+#: 
+msgid "modal.wifi_unknown_headline"
+msgstr ""
+
+#: 
+msgid "modal.wifi_unknown_desc"
+msgstr ""
+
+#: 
+msgid "myneighborhood.welcome_headline"
+msgstr ""
+
+#: 
+msgid "myneighborhood.no_followers"
+msgstr ""
+
+#: 
+msgid "myneighborhood.list_followers"
+msgstr ""
+
+#: 
+msgid "nav.my_neighborhood"
+msgstr ""
+
+#: 
+msgid "panel.delete_contact"
+msgstr ""
+
+#: 
+msgid "panel.two_contact"
+msgstr ""
+
+#: 
+msgid "panel.delete_contact_confirm"
+msgstr ""
+
+#: 
+msgid "panel.add_contact_confirm"
+msgstr ""
+
+#: 
+msgid "panel.call_list_headline"
+msgstr ""
+
+#: 
+msgid "panel.name_contact"
+msgstr ""
+
+#: 
+msgid "panel.email_contact"
+msgstr ""
+
+#: 
+msgid "panel.delete_user"
+msgstr ""
+
+#: 
+msgid "panel.delete_user_confirm"
+msgstr ""
+
+#: 
+msgid "panel.change_permissions_confirm"
+msgstr ""
+
+#: 
+msgid "panel.cancel_add_confirm"
+msgstr ""
+
+#: 
+msgid "panel.call_list_reorder"
+msgstr ""
+
+#: 
+msgid "panel.add_contact"
+msgstr ""
+
+#: 
+msgid "panel.station_license_headline"
+msgstr ""
+
+#: 
+msgid "panel.station_license_desc"
+msgstr ""
+
+#: 
+msgid "forms.properties.hub_name"
+msgstr ""
+
+#: 
+msgid "forms.properties.connection_information"
+msgstr ""
+
+#: 
+msgid "forms.properties.update_wifi"
+msgstr ""
+
+#: 
+msgid "forms.properties.monitoring_plan"
+msgstr ""
+
+#: 
+msgid "forms.properties.no_subscription"
+msgstr ""
+
+#: 
+msgid "forms.properties.add_subscription"
+msgstr ""
+
+#: 
+msgid "forms.properties.hub_location"
+msgstr ""
+
+#: 
+msgid "forms.properties.diagnostics"
+msgstr ""
+
+#: 
+msgid "forms.properties.perform_walk_test"
+msgstr ""
+
+#: 
+msgid "forms.properties.verify_hub_settings"
+msgstr ""
+
+#: 
+msgid "forms.properties.users"
+msgstr ""
+
+#: 
+msgid "forms.properties.you"
+msgstr ""
+
+#: 
+msgid "forms.properties.followers"
+msgstr ""
+
+#: 
+msgid "forms.properties.pending_invitations"
+msgstr ""
+
+#: 
+msgid "forms.properties.add_user_follower"
+msgstr ""
+
+#: 
+msgid "panel.walk_test_headline"
+msgstr ""
+
+#: 
+msgid "panel.walk_test_desc"
+msgstr ""
+
+#: 
+msgid "panel.walk_test_perform"
+msgstr ""
+
+#: 
+msgid "panel.verify_settings_headline"
+msgstr ""
+
+#: 
+msgid "panel.verify_settings_subhead"
+msgstr ""
+
+#: 
+msgid "panel.verify_settings"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_headline"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_subhead"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_wps"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_other"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_refresh"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_notfound"
+msgstr ""
+
+#: 
+msgid "panel.connect_wifi_password"
+msgstr ""
+
+#: 
+msgid "panel.connect_successful_headline"
+msgstr ""
+
+#: 
+msgid "panel.connect_successful_subhead"
+msgstr ""
+
+#: 
+msgid "panel.connect_wps_headline"
+msgstr ""
+
+#: 
+msgid "panel.connect_wps_subhead"
+msgstr ""
+
+#: 
+msgid "general.next"
+msgstr ""
+
+#: 
+msgid "panel.invite_headline"
+msgstr ""
+
+#: 
+msgid "panel.invite_accept"
+msgstr ""
+
+#: 
+msgid "panel.invite_reject"
+msgstr ""
+
+#: 
+msgid "panel.invite_maximum"
+msgstr ""
+
+#: 
+msgid "panel.no_devices"
+msgstr ""
+
+#: 
+msgid "panel.add_device"
+msgstr ""
+
+#: resources/htdocs/js/dragonfly-templates/templates/panels/panel_header.html:16
+msgid "nav.settings"
+msgstr ""
+
+#: 
+msgid "setup.begin"
+msgstr ""
+
+#: 
+msgid "setup.currently_active"
+msgstr ""
+
+#: 
+msgid "setup.connect_hub_headline"
+msgstr ""
+
+#: 
+msgid "setup.connect_hub_subhead"
+msgstr ""
+
+#: 
+msgid "setup.open_hub_headline"
+msgstr ""
+
+#: 
+msgid "setup.open_hub_subhead"
+msgstr ""
+
+#: 
+msgid "setup.battery_pack_headline"
+msgstr ""
+
+#: 
+msgid "setup.battery_pack_subhead"
+msgstr ""
+
+#: 
+msgid "setup.attach_usb_headline"
+msgstr ""
+
+#: 
+msgid "setup.attach_usb_subhead"
+msgstr ""
+
+#: 
+msgid "setup.connect_ethernet_headline"
+msgstr ""
+
+#: 
+msgid "setup.connect_ethernet_subhead"
+msgstr ""
+
+#: 
+msgid "setup.network_name"
+msgstr ""
+
+#: 
+msgid "setup.connect"
+msgstr ""
+
+#: 
+msgid "setup.hub_info_headline"
+msgstr ""
+
+#: 
+msgid "setup.hub_info_subhead"
+msgstr ""
+
+#: 
+msgid "setup.hub_location_headline"
+msgstr ""
+
+#: 
+msgid "setup.hub_location_subhead"
+msgstr ""
+
+#: 
+msgid "setup.modal_confirm"
+msgstr ""
+
+#: 
+msgid "setup.modal_wifi_headline"
+msgstr ""
+
+#: 
+msgid "setup.modal_wifi_subhead"
+msgstr ""
+
+#: 
+msgid "setup.hub_place_headline"
+msgstr ""
+
+#: 
+msgid "setup.hub_place_subhead"
+msgstr ""
+
+#: 
+msgid "setup.hub_place_description"
+msgstr ""
+
+#: 
+msgid "setup.hub_power_headline"
+msgstr ""
+
+#: 
+msgid "setup.hub_power_desc"
+msgstr ""
+
+#: 
+msgid "setup.hub_light_inop"
+msgstr ""
+
+#: 
+msgid "setup.plug_ethernet_headline"
+msgstr ""
+
+#: 
+msgid "setup.plug_ethernet_description"
+msgstr ""
+
+#: 
+msgid "setup.connect_wifi_confirm"
+msgstr ""
+
+#: 
+msgid "general.skip"
+msgstr ""
+
+#: 
+msgid "setup.complete"
+msgstr ""
+
+#: 
+msgid "setup.add_motionviewer"
+msgstr ""
+
+#: 
+msgid "setup.add_users"
+msgstr ""
+
+#: 
+msgid "setup.add_plan"
+msgstr ""
+
+#: 
+msgid "setup.finish"
+msgstr ""
+
+#: 
+msgid "setup.whatyouneed_headline"
+msgstr ""
+
+#: 
+msgid "setup.whatyouneed_camera"
+msgstr ""
+
+#: 
+msgid "setup.whatyouneed_wireless"
+msgstr ""
+
+#: 
+msgid "setup.whatyouneed_power"
+msgstr ""
+
+#: 
+msgid "setup.whatyouneed_ethernet"
+msgstr ""
+
+#: 
+msgid "setup.start"
+msgstr ""
+
+#: 
+msgid "system.password_cancel"
+msgstr ""
+
+#: 
+msgid "system.leave_hub"
+msgstr ""
+
+#: 
+msgid "system.delete_hub"
+msgstr ""
+
+#: 
+msgid "system.delete_hub_confirm"
+msgstr ""
+
+#: 
+msgid "system.delete_panel_headline"
+msgstr ""
+
+#: 
+msgid "system.delete_panel_desc"
+msgstr ""
+
+#: 
+msgid "ui.saved_changes_confirm"
+msgstr ""
+
+#: 
+msgid "general.submit"
+msgstr ""
+
+#: 
+msgid "nav.login"
+msgstr ""
+
+#: 
+msgid "nav.register"
+msgstr ""
+
+#: 
+msgid "nav.system_settings"
+msgstr ""
+
+#: 
+msgid "nav.about"
+msgstr ""
+
+#: 
+msgid "nav.help"
+msgstr ""
+
+#: 
+msgid "nav.demo"
+msgstr ""
+
+#: 
+msgid "nav.logout"
+msgstr ""
+
+#: 
+msgid "user.invitation_headline"
+msgstr ""
+
+#: 
+msgid "user.accept_invitation"
+msgstr ""
+
+#: 
+msgid "user.decline_invitation"
+msgstr ""
+
+#: 
+msgid "user.update_email_headline"
+msgstr ""
+
+#: 
+msgid "general.welcome"
+msgstr ""
+
+#: 
+msgid "user.validation_unsuccessful"
+msgstr ""
+
+#: 
+msgid "user.forgot_password_headline"
+msgstr ""
+
+#: 
+msgid "user.forgot_password_desc"
+msgstr ""
+
+#: 
+msgid "user.send_reset_email"
+msgstr ""
+
+#: 
+msgid "user.sign_in"
+msgstr ""
+
+#: 
+msgid "user.no_account"
+msgstr ""
+
+#: 
+msgid "user.register_now"
+msgstr ""
+
+#: 
+msgid "user.register_email_desc"
+msgstr ""
+
+#: 
+msgid "user.register_email_policy"
+msgstr ""
+
+#: 
+msgid "user.register_email_agree"
+msgstr ""
+
+#: 
+msgid "user.register_email_terms"
+msgstr ""
+
+#: 
+msgid "user.reset_password_headline"
+msgstr ""
+
+#: 
+msgid "user.setup_no_hubs"
+msgstr ""
+
+#: 
+msgid "user.setup_begin"
+msgstr ""
+
+#: 
+msgid "user.setup_app"
+msgstr ""
+
+#: 
+msgid "user.home_monitoring"
+msgstr ""
+
+#: 
+msgid "user.get_started"
+msgstr ""
+
+#: 
+msgid "user.have_account"
+msgstr ""
+
+#: 
+msgid "user.verify_email_headline"
+msgstr ""
+
+#: 
+msgid "user.verify_email_desc"
+msgstr ""
+
+#: 
+msgid "user.verify_your_email"
+msgstr ""
+
+#: 
+msgid "user.verify_change_address"
+msgstr ""
+
+#: 
+msgid "user.verify_resend_link"
+msgstr ""
+
+#: 
+msgid "zone.armed"
+msgstr ""
+
+#: 
+msgid "zone.disarm"
+msgstr ""
+
+#: 
+msgid "zone.disabled"
+msgstr ""
+
+#: 
+msgctxt "Added to the type of zone when disarmed. Such as Indoor Disarmed."
+msgid "zone.disarmed"
+msgstr ""
+
+#: 
+msgid "zone.arm"
+msgstr ""
+
+#: 
+msgid "zone.arming"
+msgstr ""
+
+#: 
+msgid "zone.attempting"
+msgstr ""
+
+#: 
+msgid "messages.api.no_network_connection"
+msgstr ""
+
+#: resources/htdocs/watch_app/devices/directives/lookin_directive.js:40
+msgid "messages.device.lookin.requested"
+msgstr ""
+
+#: 
+msgid "date.today"
+msgstr ""
+
+#: 
+msgid "date.yesterday"
+msgstr ""
+
+#: 
+msgid "messages.user.forgot_password_request_success"
+msgstr ""
+
+#: 
+msgid "messages.user.forgot_password_request_error"
+msgstr ""
+
+#: 
+msgid "messages.user.forgot_password_success"
+msgstr ""
+
+#: 
+msgid "messages.user.forgot_password_error"
+msgstr ""
+
+#: 
+msgid "events.no_events"
+msgstr ""
+
+#: 
+msgid "event.alarm.dismissed"
+msgstr ""
+
+#: 
+msgid "event.alarm.dismissing"
+msgstr ""
+
+#: 
+msgid "event.alarm.dismiss_failed"
+msgstr ""
+
+#: 
+msgid "event.alarm.dispatched"
+msgstr ""
+
+#: 
+msgid "event.alarm.dispatch_failed"
+msgstr ""
+
+#: 
+msgid "event.alarm.dispatch_canceling"
+msgstr ""
+
+#: 
+msgid "event.alarm.dispatch_canceled"
+msgstr ""
+
+#: 
+msgid "event.alarm.dispatch_cancel_failed"
+msgstr ""
+
+#: 
+msgid "event.alarm.auto_dismissed"
+msgstr ""
+
+#: 
+msgid "event.alarm.disarm_requested"
+msgstr ""
+
+#: 
+msgid "event.details.by_user"
+msgstr ""
+
+#: 
+msgid "event.details.by_user_at_time"
+msgstr ""
+
+#: 
+msgid "event.panel.disarm.requested"
+msgstr ""
+
+#: 
+msgid "event.panel.disarm.disarmed"
+msgstr ""
+
+#: 
+msgid "event.panel.disarm.failed"
+msgstr ""
+
+#: 
+msgid "event.panel.arm.armed"
+msgstr ""
+
+#: 
+msgid "event.panel.arm.requested"
+msgstr ""
+
+#: 
+msgid "event.panel.arm.failed"
+msgstr ""
+
+#: 
+msgid "event.panel.arm.canceled"
+msgstr ""
+
+#: 
+msgid "event.lookin.requested"
+msgstr ""
+
+#: 
+msgid "event.lookin.available"
+msgstr ""
+
+#: 
+msgid "event.lookin.failed"
+msgstr ""
+
+#: 
+msgid "event.device_added"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.offline"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.online"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.battery_low"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.battery_replaced"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.no_battery"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.battery_detected"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.tamper"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.tamper_cleared"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.lost_power"
+msgstr ""
+
+#: 
+msgid "event.panel.alert.power_restored"
+msgstr ""
+
+#: 
+msgid "event.device.alert.tamper"
+msgstr ""
+
+#: 
+msgid "event.device.alert.tamper_cleared"
+msgstr ""
+
+#: 
+msgid "event.device.alert.active"
+msgstr ""
+
+#: 
+msgid "event.device.alert.offline"
+msgstr ""
+
+#: 
+msgid "event.device.alert.online"
+msgstr ""
+
+#: 
+msgid "event.device.alert.low_battery"
+msgstr ""
+
+#: 
+msgid "event.device.alert.batteries_replaced"
+msgstr ""
+
+#: 
+msgid "event.device.alert.shut_down"
+msgstr ""
+
+#: 
+msgid "event.device.alert.shut_down_cleared"
+msgstr ""
+
+#: 
+msgid "event.alarm.alarm_dismissed"
+msgstr ""
+
+#: 
+msgid "hub.place_camera_headline"
+msgstr ""
+
+#: 
+msgid "messages.user.invalid_email_password"
+msgstr ""
+
+#: 
+msgid "messages.device.lookin_requested"
+msgstr ""
+
+#: 
+msgid "subscription_contact_add"
+msgstr ""
+
+#: 
+msgid "user.reset_password_desc"
+msgstr ""
+
+#: 
+msgid "zone.cancel"
+msgstr ""
+
+#: 
+msgid "add_device.confirm_cancel"
+msgstr ""
+
+#: 
+msgid "general.yes"
+msgstr ""
+
+#: 
+msgid "general.no"
+msgstr ""
+
+#: 
+msgid "zone.disarmed"
+msgstr ""
+
+#: 
+#, fuzzy
+msgctxt "Name of Indoor Zone"
+msgid "general.indoor"
+msgstr ""
+
+#: 
+#, fuzzy
+msgctxt "Name of outdoor zone"
+msgid "general.outdoor"
+msgstr ""
+
+#: resources/htdocs/watch_app/add_subscription/controllers/add_subscription_controller.js:100
+msgctxt "Message that appears when a subscription add fails. "
+msgid "message.add_subscription_error"
+msgstr ""
+
+#: resources/htdocs/watch_app/add_subscription/directives/confirm_location_directive.js:44
+#, fuzzy
+msgctxt "Could not update location"
+msgid "message.add_location_error"
+msgstr ""
+
+#: resources/htdocs/watch_app/alarm/controllers/alarm_controller.js:58
+msgctxt "Message that appears when an alarm is dismissed by the system"
+msgid "message.alarm_dismiss"
+msgstr ""
+
+#: resources/htdocs/watch_app/alarm/controllers/alarm_controller.js:67
+#: resources/htdocs/watch_app/alarm/controllers/alarm_controller.js:82
+msgctxt "A message for a dispatch that is in progress"
+msgid "message.dispatch_inprogress"
+msgstr ""
+
+#: resources/htdocs/watch_app/alarm/directives/cancel_dispatch_directive.js:31
+#: resources/htdocs/watch_app/alarm/directives/cancel_dispatch_directive.js:49
+#, fuzzy
+msgctxt "Message for canceled dispatch"
+msgid "message.dispatch_cancelled"
+msgstr ""
+
+#: resources/htdocs/watch_app/devices/controllers/edit_device_controller.js:31
+#: resources/htdocs/watch_app/devices/controllers/edit_device_controller.js:69
+msgctxt "Message for an update device failure"
+msgid "message.update_device_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/item/view_item_controller.js:30
+#: 
+msgctxt "Message for item delete failure"
+msgid "message.unable_to_delete"
+msgstr ""
+
+#: resources/htdocs/watch_app/panel_properties/controllers/panel_users_controller.js:90
+msgctxt "Message when updating a user has failed"
+msgid "message.user_update_fail"
+msgstr ""
+
+#: resources/htdocs/watch_app/panel_properties/controllers/panel_users_controller.js::105
+msgctxt "Message for update email that has already been added to hub"
+msgid "message.email_already_added"
+msgstr ""
+
+#: resources/htdocs/watch_app/panel_properties/controllers/panel_users_controller.js::151
+msgctxt "Message when unable to delete a user"
+msgid "message.delete_user_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/panel_properties/directives/wifi_details_directive.js::106
+msgctxt "Message for a failure to connect to a network"
+msgid "message.network_connection_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/panels/directives/subscription_prompt_directive.js:34
+msgctxt "Notification to alert of a new subscription that can be added to a hub"
+msgid "message.new_subscription_notification"
+msgstr ""
+
+#: resources/htdocs/watch_app/setup_screens/controllers/hub_setup_controller.js:53
+msgctxt "Message for failure to get subscriptions"
+msgid "message.get_subscription_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/setup_screens/controllers/hub_setup_controller.js:61
+#, fuzzy
+msgctxt "Message for failure to get hubs"
+msgid "message.get_hub_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/system_settings/change_email_controller.js:23
+msgctxt "Message for email change success"
+msgid "message.email_change_success"
+msgstr ""
+
+#: 
+msgctxt "Message for password change success"
+msgid "message.password_change_success"
+msgstr ""
+
+#: resources/htdocs/watch_app/system_settings/controllers/update_hub_controller.js:106
+msgctxt "Message when deleting a user fails"
+msgid "message.delete_user_failure"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/config/app.run.js:35
+msgctxt "Message when the session has expired"
+msgid "message.session_expired"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/controllers/login_controller.js:63
+msgctxt "Message to login in to accept and invite"
+msgid "message.accept_invite_login"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/controllers/register_controller.js:35
+msgctxt "Message for registration verification success"
+msgid "message.registration_verification_success"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/controllers/register_controller.js:46
+msgctxt "Message for success when updating email"
+msgid "message.update_email_success"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/controllers/register_controller.js:141
+msgctxt "Message for verification e-mail resend"
+msgid "message.verification_email_resent"
+msgstr ""
+
+#: resources/htdocs/watch_app/user/controllers/verify_email_controller.js:18
+msgctxt "Message when email verification is successful"
+msgid "message.email_verification_success"
+msgstr ""
+
+#: resources/htdocs/watch_app/demo_mode/demo_app_module.js:86
+msgctxt "Message for indoor demo cam disarm success"
+msgid "message.indoor_saf-t_cam_disarmed"
+msgstr ""
+
+#: 
+#, fuzzy
+msgid "message.alarm_dismissed_by"
+msgstr ""
+
+#: 
+msgid "message.hub_disarmed_by"
+msgstr ""
+
+#: 
+msgid "message.alarm_dispatched_by"
+msgstr ""
+
+#: 
+msgid "forms.general.address"
+msgstr ""
+
+#: 
+msgid "forms.general.apartment"
+msgstr ""
+
+#: 
+msgid "forms.general.city"
+msgstr ""
+
+#: 
+msgid "forms.general.county"
+msgstr ""
+
+#: 
+msgid "forms.general.email"
+msgstr ""
+
+#: 
+msgid "forms.general.email_address"
+msgstr ""
+
+#: 
+msgid "forms.general.first_name"
+msgstr ""
+
+#: 
+msgid "forms.general.last_name"
+msgstr ""
+
+#: 
+msgid "forms.general.password"
+msgstr ""
+
+#: 
+msgid "forms.general.password_confirm"
+msgstr ""
+
+#: 
+msgid "forms.general.phone_number"
+msgstr ""
+
+#: 
+msgid "forms.general.postal_code"
+msgstr ""
+
+#: 
+msgid "forms.general.state"
+msgstr ""
+
+#: 
+msgid "forms.properties.auto_dispatch"
+msgstr ""
+
+#: 
+msgid "forms.properties.arm_disarm"
+msgstr ""
+
+#: 
+msgid "forms.properties.device_name"
+msgstr ""
+
+#: 
+msgid "forms.properties.dispatch"
+msgstr ""
+
+#: 
+msgid "forms.properties.entry_delay"
+msgstr ""
+
+#: 
+msgid "forms.properties.has_key"
+msgstr ""
+
+#: 
+msgid "forms.properties.hub_id"
+msgstr ""
+
+#: 
+msgid "forms.properties.license_number"
+msgstr ""
+
+#: 
+msgid "forms.properties.license_exp"
+msgstr ""
+
+#: 
+msgid "forms.properties.lookins"
+msgstr ""
+
+#: 
+msgid "forms.properties.role"
+msgstr ""
+
+#: 
+msgid "forms.properties.role_follower"
+msgstr ""
+
+#: 
+msgid "forms.properties.role_superuser"
+msgstr ""
+
+#: 
+msgid "forms.properties.role_user"
+msgstr ""
+
+#: 
+msgid "forms.properties.verbal_code"
+msgstr ""
 
